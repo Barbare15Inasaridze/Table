@@ -1,0 +1,60 @@
+<html>
+    <h1> My school schedule</h1>
+    <table style= "border-collapse:collapse;border:1px solid indigo;">
+        <tr style="background-color: Cadetblue; color: black;border:1px solid indigo">
+        <td>
+        </td>
+       <td> Mondey</td>
+       <td> Thusday</td>
+       <td> Wednesdy</td>
+       <td> Thursday</td>
+       <td> Friday</td>
+        </tr>
+       <tr>
+       <tr style="border:1px solid indigo">
+            <td style="background-color: Cadetblue; color: black;"> 1st lesson</td>
+          <td> Biology</td>
+          <td> history</td>
+          <td> geogropy</td>
+          <td> Math</td>
+        <td> Georgian</td>
+            </tr>
+            <tr>
+        <tr style="border:1px solid indigo ">
+            <td style="background-color: Cadetblue; color: black;">2nd lesson</td>
+             <td> English</td>
+             <td>   sport</td>
+            <td> physic</td>
+            <td>  Georgian</td> 
+            <td>  math</td>
+            </tr>
+            <tr>
+
+              </tr style="border:1px solid indigo">
+             <td style="background-color: Cadetblue; color black;">3rd lesson</td>         
+            <td> Germany</td>
+            <td>   science</td>
+            <td>  math</td>
+            <td> English</td>
+            <td>  geograpy</td>
+            </tr>
+            <tr>
+               <tr style="border:1px solid indigo">   
+               <td style="background-color: Cadetblue; color black;">4th lesson</td>  
+               <td>  history     </td>
+               <td> English </td>
+            <td>  France </td>
+            <td> physic</td>
+            <td> russian</td>
+              </tr>
+              <tr>
+                  </tr style="border:1px solid indigo">
+                 <td style="background-color: Cadetblue; color black;">5th lesson</td>         
+              <td> Math</td>
+              <td> Georgian</td>
+              <td> sport</td>
+              <td>history</td>
+              <td> Science</td>
+              </tr>
+              </table>
+        </html>
